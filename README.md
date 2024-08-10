@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DineshKarthick03
 - 👀 I’m interested in Software Developer and Full Stack Development
 - 🌱 I’m currently learning BE-CSE
-- 💞️ I’m looking to collaborate on Startups,Intern
 - 📫 How to reach me https://www.linkedin.com/in/dinesh-karthick-a-65372b267/
 - 😄 Pronouns: ...HE/HIM
 
